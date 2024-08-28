@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Kolkata: Raped Indian doctor's colleague speaks of trauma and pain",
+    "description": "A protester from the midnight march in Kolkata city tells the BBC why she participated.",
+    "url": "https://www.bbc.co.uk/news/articles/c80ey272d81o",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c624/live/ac4f96a0-5acc-11ef-8669-d1056607a256.jpg",
+    "publishedAt": "2024-08-15T11:52:18.8493396Z",
+    "content": "Women have the right to be anywhere they choose to, doing whatever they choose to, without having to worry about their safety. We have a right to the night like anybody else.\r\nThat's why I joined the… [+1658 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "What is mpox, what countries is it in and how do you catch it?",
+    "description": "Mpox, which used to be called monkeypox, is declared a global public health emergency.",
+    "url": "https://www.bbc.co.uk/news/articles/cxww2dxr3mko",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b435/live/098ef3b0-5a7d-11ef-997c-711b7066309d.jpg",
+    "publishedAt": "2024-08-15T10:52:21.4271673Z",
+    "content": "Mpox disease is caused by the monkeypox virus. This is from the same group of viruses as smallpox but is much less harmful.\r\nThe virus was originally transmitted from animals to humans but now also p… [+1725 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Lamine Yamal's father stabbed multiple times - Spanish media reports",
+    "description": "Mounir Nasraoui is in hospital and at least three people have been arrested, Spanish media reports.",
+    "url": "https://www.bbc.co.uk/news/articles/c70jwl090wpo",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1966/live/7802c090-5aed-11ef-9f51-2f7b981890e5.jpg",
+    "publishedAt": "2024-08-15T10:52:19.084004Z",
+    "content": "The reported attack took place near the Rocafonda neighbourhood where Yamal grew up.\r\nEarlier in the day, Mr Nasraoui is said to have had an argument with a group of people he had encountered while w… [+755 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Israel-Gaza war: More than 40,000 killed in Gaza, Hamas-run health ministry says",
+    "description": "The actual number of people killed in the war is likely to be higher, local officials say.",
+    "url": "https://www.bbc.co.uk/news/articles/cn49v0nzv3ko",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/cbdd/live/eb85cd80-5ae5-11ef-8f0f-0577398c3339.png",
+    "publishedAt": "2024-08-15T10:37:22.4152113Z",
+    "content": "However, its breakdown of identified reported fatalities says a majority are children, women or elderly people.\r\nThis month, Israels military told the BBC that more than 15,000 terrorists had been ki… [+2248 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Ksenia Karelina: US-Russian woman jailed in Russia for 12 years for treason",
+    "description": "Ksenia Karelina was found guilty of treason for donating $51 (£39) to a charity supporting Ukraine.",
+    "url": "https://www.bbc.co.uk/news/articles/cp9rygl5k4jo",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8b00/live/fe726920-5aeb-11ef-9f51-2f7b981890e5.jpg",
+    "publishedAt": "2024-08-15T10:07:12.3964356Z",
+    "content": "A Russian court has sentenced amateur ballerina Ksenia Karelina to 12 years in jail for treason for donating $51 (£39) to a charity supporting Ukraine.\r\nKarelina, who has American and Russian citizen… [+437 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Protests in China as delivery rider kneels before security guard",
+    "description": "Many are calling for better protection for gig workers, while the police have urged the public to be kind.",
+    "url": "https://www.bbc.co.uk/news/articles/cx2n8x6y6lzo",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/521c/live/a09db810-5ac6-11ef-a811-53ddfe511e57.jpg",
+    "publishedAt": "2024-08-15T07:22:17.113963Z",
+    "content": "The incident on Monday drew huge crowds of angry delivery riders to the building in downtown Hangzhou, leading the police to dispatch dozen of officers to manage the situation - including from the sp… [+1951 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Melbourne orchestra admits ‘error’ on Gaza comments",
+    "description": "Jayson Gillham premiered a piece that was dedicated to the journalists of Gaza.",
+    "url": "https://www.bbc.co.uk/news/articles/c7v5zgelqjyo",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b119/live/2df569d0-5ac5-11ef-a811-53ddfe511e57.jpg",
+    "publishedAt": "2024-08-15T06:37:14.9579508Z",
+    "content": "Now the entire concert, due to be held at Melbourne Town Hall, has been cancelled due to safety concerns.\r\nThe MSO says they are trying to reschedule the performance.\r\nAt Sundays concert, which was h… [+2354 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Kolkata: Thousands march against rape and murder of doctor in India",
+    "description": "Tens of thousands of women march through Kolkata in protest against the rape and murder of a doctor.",
+    "url": "https://www.bbc.co.uk/news/articles/crmwj4z1xpko",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/88bc/live/f8c01e10-5a6d-11ef-8f0f-0577398c3339.jpg",
+    "publishedAt": "2024-08-15T04:22:10.5048187Z",
+    "content": "Despite scant resources, Kolkatas Reclaim the Night march appeared to have been meticulously organised. In an advisory, organisers welcomed women and people from marginalised sexual and gender identi… [+965 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Columbia University president after Gaza protests turmoil",
+    "description": "Minouche Shafik's resignation comes a year after she took the position at the Ivy League university.",
+    "url": "https://www.bbc.co.uk/news/articles/cy8431ejnk5o",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13e3/live/d854e340-5a9a-11ef-82c1-df03d4c3498e.jpg",
+    "publishedAt": "2024-08-15T01:37:14.6456786Z",
+    "content": "The episode marked the first time that mass arrests had been made on Columbia's campus since Vietnam War protests more than five decades ago. \r\nThe move inflammed protests at dozens of colleges acros… [+3505 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "WHO declares Mpox global health emergency",
+    "description": "Scientists are alarmed at the high fatality rate and rapid spread of a new variant of the virus.",
+    "url": "https://www.bbc.co.uk/news/articles/cvg35w27gzno",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b413/live/d368ae10-5a6e-11ef-997c-711b7066309d.jpg",
+    "publishedAt": "2024-08-14T19:52:16.1767272Z",
+    "content": "\"A co-ordinated international response is essential to stop this outbreak and save lives,\" he said.\r\nBy declaring the Mpox outbreak as a public health emergency, it's hoped research, funding, and the… [+1446 chars]"
+    }
+    ]
+    }
